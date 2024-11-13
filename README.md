@@ -1,3 +1,3 @@
 # test2
 
-I changed something
+I changed something to create merge conflict
