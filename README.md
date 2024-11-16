@@ -10,3 +10,4 @@ STEPS I TOOK:
 -> Made changes and committed them 
 -> Pushed the code to my forked repo 
 -> created a pull request to rajeshwar.
+-> Rajeshwar resolved the merge conflicts from his end
